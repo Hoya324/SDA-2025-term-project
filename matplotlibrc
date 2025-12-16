@@ -1,0 +1,4 @@
+# Matplotlib defaults to render Korean text without glyph errors.
+# NanumGothic is preferred (install via: brew install --cask font-nanum-gothic).
+font.family : NanumGothic, AppleGothic, Malgun Gothic, DejaVu Sans
+axes.unicode_minus : False
